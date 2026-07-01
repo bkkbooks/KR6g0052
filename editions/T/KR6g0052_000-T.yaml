@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0052/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 涅槃經本有今無偈論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1528.xml
+    old_id: T26n1528
+hash: sha256:57bc664745cd26703b79158a78ceb23b7256cd313c20903ebbdba8136bf1b5cc
