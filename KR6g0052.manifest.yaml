@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6g0052_000.yaml, hash: 'sha256:57bc664745cd26703b79158a78ceb23b7256cd313c20903ebbdba8136bf1b5cc'}
-  - {seq: 1, filename: KR6g0052_001.yaml, hash: 'sha256:aaffd315ab91d149e41dd75d07cb10fc7ec504adc8a6b6b9c161074e8f6d6fba'}
+  - {seq: 1, filename: KR6g0052_001.yaml, hash: 'sha256:d500ca76d1c042d92a9310013b92f75402de6e1a4ccf2dfc8690f8641864faa3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6g0052_001.markers.yaml, hash: 'sha256:d4cd83e7ddf95bd9c1a7ffb266d05f948556231a568340620b940433ec0d1ceb'}
+  - {seq: 0, role: markers, filename: assets/KR6g0052_000.markers.yaml, hash: 'sha256:7680b99b90cfd9e85ba06c495443727c9e7e2f8d949ba7d21adecd8eb3f1874d'}
+  - {seq: 1, role: markers, filename: assets/KR6g0052_001.markers.yaml, hash: 'sha256:693a43ef50580e6ce2a4281491e9b613d741c49a2ca0ddc891156583e4e8b842'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 涅槃經本有今無偈論一卷
   type: juan
   level: 1
-hash: sha256:c709bae32eb8926aa08107a01898d0c3f5613c7f0d6799c6b97aef28ce3d55bc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f0ed9f2910e8baaa098b00bc18af0b14b4a4b4cd4cbd0220744e039a08199ea0
