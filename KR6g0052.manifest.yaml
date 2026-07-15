@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6g0052/v1
 canonical_location: https://kanripo.org/bkk/KR6g0052/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 涅槃經本有今無偈論
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6g0052_000.yaml, hash: 'sha256:57bc664745cd26703b79158a78ceb23b7256cd313c20903ebbdba8136bf1b5cc'}
-  - {seq: 1, filename: KR6g0052_001.yaml, hash: 'sha256:d500ca76d1c042d92a9310013b92f75402de6e1a4ccf2dfc8690f8641864faa3'}
+  - {seq: 1, filename: KR6g0052_001.yaml, hash: 'sha256:418b34babcb000b8d29f6ecbd9468d2d3775fa7d8cfc50f6ed717ea86de8a241'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6g0052_000.markers.yaml, hash: 'sha256:7680b99b90cfd9e85ba06c495443727c9e7e2f8d949ba7d21adecd8eb3f1874d'}
-  - {seq: 1, role: markers, filename: assets/KR6g0052_001.markers.yaml, hash: 'sha256:693a43ef50580e6ce2a4281491e9b613d741c49a2ca0ddc891156583e4e8b842'}
+  - {seq: 1, role: markers, filename: assets/KR6g0052_001.markers.yaml, hash: 'sha256:05857a3b1b87c86c613e894db7555e4436404aeb514992658beeca0222b4ecf7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 涅槃經本有今無偈論一卷
   type: juan
   level: 1
-hash: sha256:f0ed9f2910e8baaa098b00bc18af0b14b4a4b4cd4cbd0220744e039a08199ea0
+hash: sha256:70f0ed6ac52ca4e3e0880eb976ac8e3ad0aa4019d7b98da54cb321a9938cdb30
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
